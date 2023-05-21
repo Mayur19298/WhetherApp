@@ -1,3 +1,0 @@
-# WhetherApp
-# WhetherAppProject
-# WhetherAppProject
